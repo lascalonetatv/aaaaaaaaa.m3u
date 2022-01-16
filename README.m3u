@@ -1,0 +1,12 @@
+# aaaaaaaaa.m3u
+
+#EXTM3U
+
+
+
+
+#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png",🇲🇽⚽️ ●| ESPN 
+http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/espn.png",🇲🇽⚽️ ●| CLARO SP 
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
